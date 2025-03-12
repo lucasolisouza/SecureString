@@ -17,11 +17,11 @@ The main goal was to explore concepts such as **GUI development with Tkinter**, 
 
 ## Como Usar / How to Use  
 
-**Baixe o executável** [SecureString.exe](https://github.com/) diretamente do repositório.  
+**Baixe o executável** [SecureString.exe](https://github.com/lucasolisouza/SecureString/blob/master/SecureString.exe) diretamente do repositório.  
 **Execute o arquivo** `SecureString.exe`.  
 **Gere suas senhas seguras!**  
 
-**Download the executable** [SecureString.exe](https://github.com/) directly from the repository.  
+**Download the executable** [SecureString.exe](https://github.com/lucasolisouza/SecureString/blob/master/SecureString.exe) directly from the repository.  
 **Run the file** `SecureString.exe`.  
 **Generate your secure passwords!**  
 
